@@ -8,6 +8,7 @@
 * Paulo Ricardo
 * Luigi 
 * Jorge Augusto
+* fuji
 
   
 ```
